@@ -20,6 +20,7 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 
 ## Python
 - [F-Droid Server](https://gitlab.com/fdroid/fdroidserver/) - Tools for managing builds, indexes, updates, and deployments for F-Droid repositories.
+- [PhishBuster](https://github.com/VFXGamer/PhishBuster) - A Phishing Site Detection Tool (Web Based)
 
 ## Non-Coding
 - [F-Droid Data](https://gitlab.com/fdroid/fdroiddata) - Data for the main F-Droid repository at https://f-droid.org
