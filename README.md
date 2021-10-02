@@ -37,7 +37,7 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
  - [Dawn](https://github.com/LunarWatcher/Dawn) - Project template generator
 
 ## Zsh
- - [Oh Ny Zsh](https://github.com/ohmyzsh/ohmyzsh/)
+ - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/) - Community-driven framework for configuring zsh
 
 ## Non-Coding
 - [F-Droid Data](https://gitlab.com/fdroid/fdroiddata) - Data for the main F-Droid repository at https://f-droid.org
