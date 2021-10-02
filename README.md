@@ -27,8 +27,8 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 - [Cloudflare Status Worker](https://github.com/WalshyDev/cf-status-worker) - Get a message in your Discord server when Cloudflare has an issue. Deployed with Clouflare Workers
 
 ## Kotlin
-- [Valetudo Companion](https://github.com/Hypfer/valetudo-companion) -  Valetudo Companion App for Android
 - [Android Password Store](https://github.com/Android-Password-Store/Android-Password-Store) - Android client for [pass](https://passwordstore.org)
+- [Valetudo Companion](https://github.com/Hypfer/valetudo-companion) -  Valetudo Companion App for Android
 
 ## Python
 - [F-Droid Server](https://gitlab.com/fdroid/fdroidserver/) - Tools for managing builds, indexes, updates, and deployments for F-Droid repositories.
