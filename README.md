@@ -33,7 +33,8 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 ## Python
 - [F-Droid Server](https://gitlab.com/fdroid/fdroidserver/) - Tools for managing builds, indexes, updates, and deployments for F-Droid repositories.
 - [PhishBuster](https://github.com/VFXGamer/PhishBuster) - A Phishing Site Detection Tool (Web Based)
-
+- [Virtual-Assistant](https://github.com/Veershah26/virtual-assistant)- A Virtual Assistant, where you can add the feature you like as a module in the modules folder, the nameof the assistant would also be decided at the end of the Hacktoberfest with a vote between all the contributors.  
+ 
 ## Rust
 - [healthchecks-rs](https://github.com/msfjarvis/healthchecks-rs) - Rust library and CLI tools for interacting with [healthchecks.io](https://healthchecks.io)
 
