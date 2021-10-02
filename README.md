@@ -11,6 +11,9 @@ Contributions to this repository will NOT count towards your Hacktoberfest count
 Please add new repos in their programming language and keep it alphabetical. [Click here to add your project](https://github.com/TheLastProject/Hacktoberfest-2021-legit/edit/main/README.md).
 
 # Projects to contribute to
+## HTML
+- [Catima-Website](https://github.com/TheLastProject/Catima-Website) - Website for [Catima](https://github.com/TheLastProject/Catima)
+
 ## Java
 - [Catima](https://github.com/TheLastProject/Catima) -  Catima, a Loyalty Card & Ticket Manager for Android
 - [F-Droid](https://gitlab.com/fdroid/fdroidclient) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
