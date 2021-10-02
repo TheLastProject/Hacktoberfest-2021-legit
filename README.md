@@ -15,6 +15,9 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 ## C++
  - [upm](https://github.com/LunarWatcher/upm) - A package manager to make life less miserable when installing upstream packages
 
+## C#
+- [Vignette](https://github.com/vignetteapp/vignette) - The open source VTuber toolkit.
+
 ## HTML
 - [Catima-Website](https://github.com/TheLastProject/Catima-Website) - Website for [Catima](https://github.com/TheLastProject/Catima)
 
@@ -45,9 +48,6 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 
 ## Zsh
  - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/) - Community-driven framework for configuring zsh
-
-## C#
-- [Vignette](https://github.com/vignetteapp/vignette) - The open source VTuber toolkit.
 
 ## Non-Coding
 - [F-Droid Data](https://gitlab.com/fdroid/fdroiddata) - Data for the main F-Droid repository at https://f-droid.org
