@@ -15,9 +15,16 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 ## C++
  - [upm](https://github.com/LunarWatcher/upm) - A package manager to make life less miserable when installing upstream packages
 
+## HTML
+- [Catima-Website](https://github.com/TheLastProject/Catima-Website) - Website for [Catima](https://github.com/TheLastProject/Catima)
+
 ## Java
 - [Catima](https://github.com/TheLastProject/Catima) -  Catima, a Loyalty Card & Ticket Manager for Android
 - [F-Droid](https://gitlab.com/fdroid/fdroidclient) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+- [Slimefun](https://github.com/Slimefun/Slimefun4)  - Turn your Minecraft Spigot server into a modpack with over 500+ items added! **Tree planted for every approved Hacktoberfest PR**
+
+## JavaScript
+- [Cloudflare Status Worker](https://github.com/WalshyDev/cf-status-worker) - Get a message in your Discord server when Cloudflare has an issue. Deployed with Clouflare Workers
 
 ## Kotlin
 - [Valetudo Companion](https://github.com/Hypfer/valetudo-companion) -  Valetudo Companion App for Android
@@ -34,3 +41,4 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 
 ## Non-Coding
 - [F-Droid Data](https://gitlab.com/fdroid/fdroiddata) - Data for the main F-Droid repository at https://f-droid.org
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp is a non-profit where you can learn to code for free. Help shape the curriculum.
