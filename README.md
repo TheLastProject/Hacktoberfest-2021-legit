@@ -34,15 +34,15 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 - [F-Droid Server](https://gitlab.com/fdroid/fdroidserver/) - Tools for managing builds, indexes, updates, and deployments for F-Droid repositories.
 - [PhishBuster](https://github.com/VFXGamer/PhishBuster) - A Phishing Site Detection Tool (Web Based)
 
+## Rust
+- [healthchecks-rs](https://github.com/msfjarvis/healthchecks-rs) - Rust library and CLI tools for interacting with [healthchecks.io](https://healthchecks.io)
+
 ## Vimscript
  - [auto-pairs](https://github.com/LunarWatcher/auto-pairs) - Plugin for automatically inserting and deleting pairs
  - [Dawn](https://github.com/LunarWatcher/Dawn) - Project template generator
 
 ## Zsh
  - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/) - Community-driven framework for configuring zsh
-
-## Rust
-- [healthchecks-rs](https://github.com/msfjarvis/healthchecks-rs) - Rust library and CLI tools for interacting with [healthchecks.io](https://healthchecks.io)
 
 ## Non-Coding
 - [F-Droid Data](https://gitlab.com/fdroid/fdroiddata) - Data for the main F-Droid repository at https://f-droid.org
