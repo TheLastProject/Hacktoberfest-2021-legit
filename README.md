@@ -35,6 +35,11 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 - [PhishBuster](https://github.com/VFXGamer/PhishBuster) - A Phishing Site Detection Tool (Web Based)
 
 ## Rust
+- [bat](https://github.com/sharkdp/bat)
+- [tauri](https://github.com/tauri-apps/tauri)
+- [MeilliSearch](https://github.com/meilisearch/MeiliSearch)
+- [yew](https://github.com/yewstack/yew)
+- [v86](https://github.com/copy/v86)
 - [healthchecks-rs](https://github.com/msfjarvis/healthchecks-rs) - Rust library and CLI tools for interacting with [healthchecks.io](https://healthchecks.io)
 
 ## Vimscript
