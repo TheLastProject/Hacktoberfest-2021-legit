@@ -24,9 +24,9 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 - [Slimefun](https://github.com/Slimefun/Slimefun4)  - Turn your Minecraft Spigot server into a modpack with over 500+ items added! **Tree planted for every approved Hacktoberfest PR**
 
 ## JavaScript
+- [AvBot Charts](https://github.com/drph4nt0m/avbot-charts) - Scraper for collecting real world airport charts to be used by flight simulation community.
 - [Cloudflare Status Worker](https://github.com/WalshyDev/cf-status-worker) - Get a message in your Discord server when Cloudflare has an issue. Deployed with Cloudflare Workers
 - [Mayuko](https://github.com/mayukobot/mayuko-js) - General purpose Discord bot for all things anime, and some osu! functionality.
-- [AvBot Charts](https://github.com/drph4nt0m/avbot-charts) - Scraper for collecting real world airport charts to be used by flight simulation community.
 
 ## Kotlin
 - [Android Password Store](https://github.com/Android-Password-Store/Android-Password-Store) - Android client for [pass](https://passwordstore.org)
