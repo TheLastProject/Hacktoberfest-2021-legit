@@ -29,16 +29,21 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 ## JavaScript
 - [AvBot Charts](https://github.com/drph4nt0m/avbot-charts) - Scraper for collecting real world airport charts to be used by flight simulation community.
 - [Cloudflare Status Worker](https://github.com/WalshyDev/cf-status-worker) - Get a message in your Discord server when Cloudflare has an issue. Deployed with Cloudflare Workers
+- [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges) - Allows users to more easily use Octicons and their own icons and logos in shields.io badges
 - [Mayuko](https://github.com/mayukobot/mayuko-js) - General purpose Discord bot for all things anime, and some osu! functionality.
 
 ## Kotlin
 - [Android Password Store](https://github.com/Android-Password-Store/Android-Password-Store) - Android client for [pass](https://passwordstore.org)
 - [Valetudo Companion](https://github.com/Hypfer/valetudo-companion) -  Valetudo Companion App for Android
 
+## PHP
+- [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
+
 ## Python
 - [F-Droid Server](https://gitlab.com/fdroid/fdroidserver/) - Tools for managing builds, indexes, updates, and deployments for F-Droid repositories.
 - [PhishBuster](https://github.com/VFXGamer/PhishBuster) - A Phishing Site Detection Tool (Web Based)
-- [Virtual-Assistant](https://github.com/Veershah26/virtual-assistant)- A Virtual Assistant, where you can add the feature you like as a module in the modules folder, the nameof the assistant would also be decided at the end of the Hacktoberfest with a vote between all the contributors.  
+- [Virtual-Assistant](https://github.com/Veershah26/virtual-assistant)- A Virtual Assistant, where you can add the feature you like as a module in the modules folder, the nameof the assistant would also be decided at the end of the Hacktoberfest with a vote between all the contributors. 
  
 ## Rust
 - [healthchecks-rs](https://github.com/msfjarvis/healthchecks-rs) - Rust library and CLI tools for interacting with [healthchecks.io](https://healthchecks.io)
@@ -53,3 +58,4 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 ## Non-Coding
 - [F-Droid Data](https://gitlab.com/fdroid/fdroiddata) - Data for the main F-Droid repository at https://f-droid.org
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp is a non-profit where you can learn to code for free. Help shape the curriculum.
+- [LaTeX Gboard Dictionary](https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary) - ⌨️ Importable dictionary for typing math symbols more easily on your Android phone by using keyboard shortcuts inspired by LaTeX.
