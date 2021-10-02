@@ -44,6 +44,9 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 ## Zsh
  - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/) - Community-driven framework for configuring zsh
 
+## C#
+- [Vignette](https://github.com/vignetteapp/vignette) - The open source VTuber toolkit.
+
 ## Non-Coding
 - [F-Droid Data](https://gitlab.com/fdroid/fdroiddata) - Data for the main F-Droid repository at https://f-droid.org
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp is a non-profit where you can learn to code for free. Help shape the curriculum.
