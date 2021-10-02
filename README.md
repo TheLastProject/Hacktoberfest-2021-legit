@@ -27,11 +27,15 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 - [Cloudflare Status Worker](https://github.com/WalshyDev/cf-status-worker) - Get a message in your Discord server when Cloudflare has an issue. Deployed with Clouflare Workers
 
 ## Kotlin
+- [Android Password Store](https://github.com/Android-Password-Store/Android-Password-Store) - Android client for [pass](https://passwordstore.org)
 - [Valetudo Companion](https://github.com/Hypfer/valetudo-companion) -  Valetudo Companion App for Android
 
 ## Python
 - [F-Droid Server](https://gitlab.com/fdroid/fdroidserver/) - Tools for managing builds, indexes, updates, and deployments for F-Droid repositories.
 - [PhishBuster](https://github.com/VFXGamer/PhishBuster) - A Phishing Site Detection Tool (Web Based)
+
+## Rust
+- [healthchecks-rs](https://github.com/msfjarvis/healthchecks-rs) - Rust library and CLI tools for interacting with [healthchecks.io](https://healthchecks.io)
 
 ## Vimscript
  - [auto-pairs](https://github.com/LunarWatcher/auto-pairs) - Plugin for automatically inserting and deleting pairs
