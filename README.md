@@ -25,6 +25,7 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 
 ## JavaScript
 - [Cloudflare Status Worker](https://github.com/WalshyDev/cf-status-worker) - Get a message in your Discord server when Cloudflare has an issue. Deployed with Clouflare Workers
+- [Mayuko](https://github.com/mayukobot/mayuko-js) - General purpose Discord bot for all things anime, and some osu! functionality.
 
 ## Kotlin
 - [Android Password Store](https://github.com/Android-Password-Store/Android-Password-Store) - Android client for [pass](https://passwordstore.org)
