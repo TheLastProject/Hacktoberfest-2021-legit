@@ -28,6 +28,7 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 
 ## Kotlin
 - [Valetudo Companion](https://github.com/Hypfer/valetudo-companion) -  Valetudo Companion App for Android
+- [Android Password Store](https://github.com/Android-Password-Store/Android-Password-Store) - Android client for [pass](https://passwordstore.org)
 
 ## Python
 - [F-Droid Server](https://gitlab.com/fdroid/fdroidserver/) - Tools for managing builds, indexes, updates, and deployments for F-Droid repositories.
@@ -39,6 +40,9 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 
 ## Zsh
  - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/) - Community-driven framework for configuring zsh
+
+## Rust
+- [healthchecks-rs](https://github.com/msfjarvis/healthchecks-rs) - Rust library and CLI tools for interacting with [healthchecks.io](https://healthchecks.io)
 
 ## Non-Coding
 - [F-Droid Data](https://gitlab.com/fdroid/fdroiddata) - Data for the main F-Droid repository at https://f-droid.org
