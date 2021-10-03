@@ -34,7 +34,6 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 
 ## Kotlin
 - [Android Password Store](https://github.com/Android-Password-Store/Android-Password-Store) - Android client for [pass](https://passwordstore.org)
-- [Valetudo Companion](https://github.com/Hypfer/valetudo-companion) -  Valetudo Companion App for Android
 
 ## PHP
 - [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
