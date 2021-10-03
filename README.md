@@ -46,7 +46,12 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 - [Virtual-Assistant](https://github.com/Veershah26/virtual-assistant)- A Virtual Assistant, where you can add the feature you like as a module in the modules folder, the nameof the assistant would also be decided at the end of the Hacktoberfest with a vote between all the contributors. 
  
 ## Rust
+- [bat](https://github.com/sharkdp/bat)
 - [healthchecks-rs](https://github.com/msfjarvis/healthchecks-rs) - Rust library and CLI tools for interacting with [healthchecks.io](https://healthchecks.io)
+- [MeilliSearch](https://github.com/meilisearch/MeiliSearch)
+- [tauri](https://github.com/tauri-apps/tauri)
+- [v86](https://github.com/copy/v86)
+- [yew](https://github.com/yewstack/yew)
 
 ## Vimscript
  - [auto-pairs](https://github.com/LunarWatcher/auto-pairs) - Plugin for automatically inserting and deleting pairs
