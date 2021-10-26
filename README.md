@@ -41,6 +41,7 @@ Please add new repos in their programming language and keep it alphabetical. [Cl
 
 ## Python
 - [F-Droid Server](https://gitlab.com/fdroid/fdroidserver/) - Tools for managing builds, indexes, updates, and deployments for F-Droid repositories.
+- [Mineshaft](https://github.com/Mineshaft-game) - A suite of projects with the goal to recreate Minecraft in 2D
 - [Manim](https://github.com/ManimCommunity/manim) - An animation engine for explanatory math videos.
 - [PhishBuster](https://github.com/VFXGamer/PhishBuster) - A Phishing Site Detection Tool (Web Based)
 - [Virtual-Assistant](https://github.com/Veershah26/virtual-assistant)- A Virtual Assistant, where you can add the feature you like as a module in the modules folder, the nameof the assistant would also be decided at the end of the Hacktoberfest with a vote between all the contributors. 
